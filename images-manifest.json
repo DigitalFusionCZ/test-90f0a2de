@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-26T20:05:02.007Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby-white.png",
+      "file_name": "logo-vseprostavby-white.png",
+      "description": "White version of the VŠE PRO STAVBY.CZ logo, likely for use on dark backgrounds or as a primary site logo.",
+      "suggested_usage": "Use as the main header logo, especially on pages with dark navigation or background areas to ensure visibility.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/gallery-tanvald-building.jpg",
+      "file_name": "gallery-tanvald-building.jpg",
+      "description": "Image depicting a building or construction project in the Tanvald area, possibly a completed project or work in progress, showcasing the company's work.",
+      "suggested_usage": "Place in a project gallery, portfolio section, or a 'Our Work' page to highlight past projects and capabilities.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-family-house-reconstruction.jpg",
+      "file_name": "content-family-house-reconstruction.jpg",
+      "description": "An image related to 'RDPO' (possibly 'Rodinný dům po rekonstrukci' - Family house after reconstruction), indicating a renovated or new build residential property.",
+      "suggested_usage": "Use within services pages (e.g., 'Reconstructions', 'New Builds'), case studies, or blog posts to visually represent residential project offerings or completions. Ensure appropriate alt text like 'Family house reconstruction project'.",
+      "size_bytes": 558411
+    }
+  ]
+}
